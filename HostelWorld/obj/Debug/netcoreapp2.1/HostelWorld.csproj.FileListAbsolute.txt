@@ -1,0 +1,15 @@
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\appSettings.json
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\HostelWorld.deps.json
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\HostelWorld.runtimeconfig.json
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\HostelWorld.runtimeconfig.dev.json
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\HostelWorld.dll
+D:\Nunit\HostelWorld\HostelWorld\bin\Debug\netcoreapp2.1\HostelWorld.pdb
+D:\Nunit\HostelWorld\HostelWorld\obj\Debug\netcoreapp2.1\HostelWorld.csproj.CoreCompileInputs.cache
+D:\Nunit\HostelWorld\HostelWorld\obj\Debug\netcoreapp2.1\HostelWorld.AssemblyInfoInputs.cache
+D:\Nunit\HostelWorld\HostelWorld\obj\Debug\netcoreapp2.1\HostelWorld.AssemblyInfo.cs
+D:\Nunit\HostelWorld\HostelWorld\obj\Debug\netcoreapp2.1\HostelWorld.dll
+D:\Nunit\HostelWorld\HostelWorld\obj\Debug\netcoreapp2.1\HostelWorld.pdb
